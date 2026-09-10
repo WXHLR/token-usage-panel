@@ -9,12 +9,13 @@
 - 近 10 天趋势图（红涨绿跌）
 - 按模型拆分用量、缓存命中率
 - 一键复制报告 / 导出 CSV
+- **一键登录获取 userToken**（内置浏览器，登录一次自动填好）
 - 右上角「充值」按钮直达官方充值页
 - 深色 / 浅色主题、系统托盘常驻
 
 ## 下载
 
-到本仓库的 **Releases** 页面，下载最新的 `Token用量面板-vX.X-win64.zip`。
+到本仓库的 **Releases** 页面，下载最新的 `token-usage-panel-vX.X-win64.zip`。
 
 解压后两种用法：
 
@@ -27,15 +28,20 @@
 
 ## 首次使用
 
-1. 双击运行
-2. 在「设置」里填入你的 DeepSeek **API Key** 和 **userToken**，保存
-3. 之后每次打开即可直接查看用量
+1. 双击运行，会弹出「设置」
+2. 填入你的 DeepSeek **API Key**
+3. userToken 点右边的 **「一键登录获取」**：
+   - 弹出内置浏览器 → 在里面登录 DeepSeek
+   - 登录成功后点「我已登录，获取 Token」，自动填好
+4. 点「保存」。之后每次打开即可直接查看用量
 
-**去哪儿拿这两个值？**
+**API Key 去哪儿拿？**
 
 - 打开并登录 <https://platform.deepseek.com>
-- **API Key**：「API Keys」页面创建一个，形如 `sk-xxxxxx`
-- **userToken**：按 F12 打开开发者工具 → Application → Cookies → 找到 `platform.deepseek.com` 下的 `userToken`，复制其值
+- 「API Keys」页面创建一个，形如 `sk-xxxxxx`
+
+> 如果内置浏览器打不开（系统缺 WebView2 运行时），可改用手动抓取：
+> F12 → Application → Cookies → 复制 `platform.deepseek.com` 下的 `userToken`。
 
 ## 隐私
 
