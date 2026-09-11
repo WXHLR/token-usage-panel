@@ -92,11 +92,11 @@ Windows 10 / 11 · 本地运行 · Key 不上传 · 免费使用
 
 | 主界面 | 设置页 |
 |---|---|
-| <img src="assets/readme/dashboard.jpg" alt="主界面" /> | <img src="assets/readme/settings.jpg" alt="设置页" /> |
+| <img src="assets/readme/dashboard.jpg" alt="主界面" width="100%" /> | <img src="assets/readme/settings.jpg" alt="设置页" width="100%" /> |
 
 | 一键获取 userToken | 检查更新 |
 |---|---|
-| <img src="assets/readme/token-login.jpg" alt="一键获取 userToken" /> | <img src="assets/readme/update.jpg" alt="检查更新" /> |
+| <img src="assets/readme/token-login.jpg" alt="一键获取 userToken" width="100%" /> | <img src="assets/readme/update.jpg" alt="检查更新" width="100%" /> |
 
 ---
 
