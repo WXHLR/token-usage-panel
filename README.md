@@ -9,7 +9,7 @@
 Windows 10 / 11 · 本地运行 · Key 不上传 · 免费使用
 
 [![最新版本](https://img.shields.io/github/v/release/WXHLR/token-usage-panel?style=for-the-badge&label=最新版本&color=4D6BFE)](https://github.com/WXHLR/token-usage-panel/releases/latest)
-[![下载次数](https://img.shields.io/github/downloads/WXHLR/token-usage-panel/total?style=for-the-badge&label=下载次数&color=58C4F5)](https://github.com/WXHLR/token-usage-panel/releases)
+[![Key 本地保存](https://img.shields.io/badge/API%20Key-Only%20Local-3BDC9B?style=for-the-badge)](https://github.com/WXHLR/token-usage-panel)
 [![Windows](https://img.shields.io/badge/Windows-10%20%2F%2011-4D6BFE?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/WXHLR/token-usage-panel/releases/latest)
 
 ### [⬇️ 下载最新版](https://github.com/WXHLR/token-usage-panel/releases/latest)
