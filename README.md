@@ -102,13 +102,13 @@ Windows 10 / 11 · 本地运行 · Key 不上传 · 免费使用
 
 ## 界面预览
 
-| 主界面 | 设置页 |
+| 主界面（含输入 / 输出拆分、调用质量） | 项目维度趋势（总量 / 项目切换） |
 |---|---|
-| <img src="assets/readme/dashboard.jpg" alt="主界面" width="100%" /> | <img src="assets/readme/settings.jpg" alt="设置页" width="100%" /> |
+| <img src="assets/readme/dashboard.jpg" alt="主界面" width="100%" /> | <img src="assets/readme/project-trend.jpg" alt="项目维度趋势" width="100%" /> |
 
-| 一键获取 userToken | 检查更新 |
+| 设置页 | 项目明细与费用估算口径 |
 |---|---|
-| <img src="assets/readme/token-login.jpg" alt="一键获取 userToken" width="100%" /> | <img src="assets/readme/update.jpg" alt="检查更新" width="100%" /> |
+| <img src="assets/readme/settings.jpg" alt="设置页" width="100%" /> | <img src="assets/readme/project-detail.jpg" alt="项目明细与估算口径" width="100%" /> |
 
 ---
 
