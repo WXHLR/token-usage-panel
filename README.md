@@ -100,6 +100,19 @@ Windows 10 / 11 · 本地运行 · Key 不上传 · 免费使用
 
 ---
 
+## 宣传片（v2.2）
+
+<p align="center">
+  <img src="assets/promo/v22-promo-preview.gif" alt="Token 用量面板 v2.2 宣传片预览" width="88%" />
+</p>
+
+<p align="center">
+  <b>20 秒</b> · 输入 / 输出拆分 · 调用质量 · 项目趋势 &nbsp;|&nbsp;
+  <a href="assets/promo/v22-promo-1080p.mp4">▶ 观看 1080p 完整版</a>
+</p>
+
+---
+
 ## 界面预览
 
 | 主界面（含输入 / 输出拆分、调用质量） | 项目维度趋势（总量 / 项目切换） |
