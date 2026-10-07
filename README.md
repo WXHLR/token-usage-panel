@@ -1,4 +1,4 @@
-﻿<div align="center">
+<div align="center">
 
 <img src="assets/readme/hero.jpg" alt="Token 用量面板" width="100%" />
 
@@ -173,6 +173,14 @@ Windows 10 / 11 64 位。
 </details>
 
 
+## v2.5.4 更新
+
+- **自动汇率**：汇率窗口新增「从网络同步」，一键抓取 Frankfurter 实时汇率
+- **公开价格同步**：价格窗口新增「同步 OpenRouter 价格」，拉取公开模型单价
+- **换算口径**：OpenRouter 价格由 per-token 换算为每百万 token
+- **手工规则保留**：同步只覆盖 OpenRouter 规则，其他 Provider 手工价格不受影响
+- **回归**：v2 服务测试 **570 项全绿**
+
 ## v2.5.3 更新
 
 - **官方账单缓存**：OpenAI / Anthropic usage / cost 报告支持 TTL 缓存
@@ -273,6 +281,7 @@ Windows 10 / 11 64 位。
 
 ## 更新记录
 
+- **v2.5.4**：自动汇率（Frankfurter）、OpenRouter 公开模型价格同步、per-million 换算
 - **v2.5.3**：官方账单 TTL 缓存、持久化、强制刷新
 - **v2.5.2**：官方账单分页、项目过滤、429 限流错误
 - **v2.5.1**：OpenAI / Anthropic 管理员用量与费用报告、Provider 账单窗口、统一账本导入
