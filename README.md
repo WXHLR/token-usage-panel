@@ -173,6 +173,15 @@ Windows 10 / 11 64 位。
 </details>
 
 
+## v2.5.1 更新
+
+- **OpenAI 管理员账单**：读取组织级用量与费用报告
+- **Anthropic 管理员账单**：读取组织级用量与费用报告
+- **统一账本导入**：官方用量与费用归一化后写入账本，来源标记为 Official
+- **Provider 账单窗口**：Provider 总览 → 账单，选择连接和周期读取 / 导入
+- **Gemini 边界**：官方账单需要 Google Cloud Billing / Monitoring，保持 RequiresAdminScope
+- 回归：v2 服务测试 **551 项全绿**
+
 ## v2.5.0 更新
 
 - **加密备份**：PBKDF2 + AES-256-CBC + HMAC-SHA256，正确密码才能恢复
@@ -246,6 +255,7 @@ Windows 10 / 11 64 位。
 
 ## 更新记录
 
+- **v2.5.1**：OpenAI / Anthropic 管理员用量与费用报告、Provider 账单窗口、统一账本导入
 - **v2.5.0**：加密备份、账本修复压缩、批次回滚、恢复冲突预览
 - **v2.4.6**：备份 ZIP 校验与恢复、恢复前安全备份、账本损坏行检查
 - **v2.4.5**：统一账本、Provider 总览、导入对账、本地 Agent Source、更多 Provider 适配器、多币种、预算、价格估算、消费分析、周期报告与自动备份
